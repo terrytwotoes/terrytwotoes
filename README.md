@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=terrytwotoes" alt="terrytwotoes" /></a> </p>
 
-- 🔭 I’m currently working on [Issue Tracker]([https://www.chaitanyatripathi.xyz/](https://github.com/terrytwotoes/issue-tracker))
+- 🔭 I’m currently working on [Issue Tracker](https://github.com/terrytwotoes/issue-tracker)
 
 - 🌱 I’m currently exploring **Front-end technologies like NextJS**
 
